@@ -1,6 +1,9 @@
-# JavaDictionaryForFewThings
+# A Java Dictionary
 
-A Java dictionary for a few things
+A dictionary for a few things
 
 <br>
-<br>
+
+## Basic bash commands
+
+text
