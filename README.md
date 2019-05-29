@@ -60,7 +60,10 @@
 | ls -r 		| list in reverse order 						|
 | ls -1 		| list one file per line						|
 | mkdir			| make directory 								|
-| pwd 			| show current directory 						|
+| rm 			| remove a file 								|
+| rmdir 		| remove a directory (when it's empty)			|
+| rmdir -f 		| force remove 									|
+| pwd 			| print working directory 						|
 | cd *dir* 		| change to *dir* 								|
 | clear 		| clear screen 									|
 | ...		    | ...											|
