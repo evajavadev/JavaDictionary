@@ -61,7 +61,7 @@
 | ls -1 		| list one file per line						|
 | mkdir			| make directory 								|
 | pwd 			| show current directory 						|
-| cd dir 		| change to dir 								|
+| cd *dir* 		| change to *dir* 								|
 | clear 		| clear screen 									|
 | ...		    | ...											|
 
