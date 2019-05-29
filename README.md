@@ -11,6 +11,7 @@
 | ls		    | list the folder's content 	    		    |
 | ls -a         | list all content including the hidden files	|
 
+<br>
 
 | commands      | explanation   				    			|
 | ------------- | ---------------------------------------------	|
