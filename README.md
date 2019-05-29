@@ -13,7 +13,7 @@
 | $ git config --list   										|
 
 
-| git - start repository  										|
+| git - start a repository  										|
 | ------------------------------------------------------------- |
 | $ git init
 | $ git status
@@ -29,14 +29,14 @@
 | $ git reset a-file.java 										|
 
 
-| git - commit to repository 									|
+| git - commit to a repository 									|
 | ------------------------------------------------------------- |
 | $ git commit -m "first commit"								|
 | $ git commit -a -m "update"	 								|
 | $ git reset --soft HEAD^										|
 
 
-| git - pull and push to repository 									 |
+| git - pull and push to a repository 									 |
 | ---------------------------------------------------------------------- |
 | $ git remote add origin https://github.com/theusername/with_the_new_repository.git 										 	   			   |
 | $ git clone git@github.com:theusername/my-app.git 					 |
@@ -73,10 +73,10 @@
 
 <br>
 
-| text          | text          				    			|
+| rubrik        | rubrik          				    			|
 | ------------- | ---------------------------------------------	|
-| text		    | text 							    		    |
-| text          | text											|
+| ...		    | ... 							    		    |
+| ...          | ...											|
 
 
 <br>
@@ -87,10 +87,10 @@
 
 <br>
 
-| text          | text          				    			|
+| rubrik        | rubrik          				    			|
 | ------------- | ---------------------------------------------	|
-| text		    | text 							    		    |
-| text          | text											|
+| ...		    | ... 							    		    |
+| ...           | ...											|
 
 
 <br>
@@ -105,5 +105,3 @@
 | ---------------------------------------------	|
 | [Basic writing and formatting syntax](https://help.github.com/en/articles/basic-writing-and-formatting-syntax)   		    |
 | [Working with advanced formatting](https://help.github.com/en/articles/working-with-advanced-formatting)				 |
-
- 
