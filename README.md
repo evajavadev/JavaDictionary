@@ -12,13 +12,16 @@
 | ls -a         | list all content including the hidden files	|
 
 
-<!-- ls -
+<br>
+<br>
 
+## Github formatting
 
-Basic formatting with github 
-https://help.github.com/en/articles/basic-writing-and-formatting-syntax
+<br>
 
-Working with advanced formatting
-https://help.github.com/en/articles/working-with-advanced-formatting
+| links to web pages			    			|
+| ---------------------------------------------	|
+| [Basic writing and formatting syntax](https://help.github.com/en/articles/basic-writing-and-formatting-syntax)   		    |
+| [Working with advanced formatting](https://help.github.com/en/articles/working-with-advanced-formatting)				 |
 
--->
+ 
