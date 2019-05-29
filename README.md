@@ -4,10 +4,12 @@
 
 ## Basic bash commands
 
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+<br>
+
+| commands      | explanation   				    			|
+| ------------- | ---------------------------------------------	|
+| ls		    | list the folder's content 	    		    |
+| ls -a         | list all content including the hidden files	|
 
 
 <!-- ls -
