@@ -12,11 +12,16 @@
 | ls -a         | list all content including the hidden files	|
 
 
+| commands      | explanation   				    			|
+| ------------- | ---------------------------------------------	|
+| ls		    | list the folder's content 	    		    |
+| ls -a         | list all content including the hidden files	|
+
 <br>
 <br>
 <br>
 
-## text
+## Basic Linux commands
 
 <br>
 
