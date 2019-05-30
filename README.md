@@ -6,11 +6,11 @@
 
 <br> 
 
-| git - configuration & nbps; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
-| --------------------------------------------------------------------- |
-| $ git config --global user.name "a username"					|
-| $ git config --global user.email theuser@mail.com  			|
-| $ git config --list   										|
+| git - configuration &nbps; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
+| --------------------------------------------------------------------------- |
+| `$ git config --global user.name "a username"`					|
+| `$ git config --global user.email theuser@mail.com`  			|
+| `$ git config --list`   										|
 
 
 | git - start a repository  									|
