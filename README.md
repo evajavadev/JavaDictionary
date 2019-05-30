@@ -13,19 +13,20 @@
 | `$ git config --list`   												   |
 
 
-| git - start a repository &nbsp; &nbsp; |
+| git - start a repository |
 | --- |
 | `$ git init` 	 |
 | `$ git status` |
 
-| git - stage files  											|
-| ------------------------------------------------------------- |
-| $ git add a_new_file.java 									|
-| $ git add . 													|
-| $ git add a-file.java another-file.txt yet_another_file.md 	|
-| $ git add --all 												|
-| $ git rm --cached my_file_from_staging_area.java 				|
-| $ git reset a-file.java 										|
+
+| git - stage files |
+| --- |
+| `$ git add a_new_file.java` 									|
+| `$ git add .` 												|
+| `$ git add a-file.java another-file.txt yet_another_file.md` 	|
+| `$ git add --all` 											|
+| `$ git rm --cached my_file_from_staging_area.java` 			|
+| `$ git reset a-file.java` 									|
 
 
 | git - commit to a repository 									|
@@ -37,10 +38,10 @@
 
 | git - pull and push to a repository 									 |
 | ---------------------------------------------------------------------- |
-| $ git remote add origin https://github.com/theusername/with_the_new_repository.git 										 	   			   |
-| $ git clone git@github.com:theusername/my-app.git 					 |
-| git push -u origin master 											 |
-| git pull 																 |	
+| `$ git remote add origin https://github.com/theusername/with_the_new_repository.git` 										 	   			   |
+| `$ git clone git@github.com:theusername/my-app.git` 					 |
+| `$ git push -u origin master` 											 |
+| `git pull` 																 |	
 
 
 | git - branch															 |
