@@ -9,7 +9,7 @@
 | git - configuration |
 | --- |
 | `$ git config --global user.name "a username"`				|
-| `$ git config --global user.email theuser@mail.com`  			|
+| `$ git config --global user.email theuser@mail.com` &nbsp; &nbsp; &nbsp; |
 | `$ git config --list`   										|
 
 
