@@ -9,7 +9,7 @@
 | git - configuration &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
 | ------------------------------------------------------------- |
 | $ git config --global user.name "a username"					|
-| $ git config --global user.email theuser@mail.com  			|
+| $ git config --global user.email theuser\@mail.com  			|
 | $ git config --list   										|
 
 
@@ -38,7 +38,7 @@
 
 | git - pull and push to a repository 									 |
 | ---------------------------------------------------------------------- |
-| $ git remote add origin https://github.com/theusername/with_the_new_repository.git 										 	   			   |
+| $ git remote add origin \https://github.com/theusername/with_the_new_repository.git 										 	   			   |
 | $ git clone git@github.com:theusername/my-app.git 					 |
 | git push -u origin master 											 |
 | git pull 																 |	
