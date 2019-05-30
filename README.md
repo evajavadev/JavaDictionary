@@ -29,24 +29,24 @@
 | `$ git reset a-file.java` 									|
 
 
-| git - commit to a repository 									|
-| ------------------------------------------------------------- |
-| $ git commit -m "first commit"								|
-| $ git commit -a -m "update"	 								|
-| $ git reset --soft HEAD^										|
+| git - commit to a repository |
+| --- |
+| `$ git commit -m "first commit"` |
+| `$ git commit -a -m "update"` |
+| `$ git reset --soft HEAD^` |
 
 
-| git - pull and push to a repository 									 |
-| ---------------------------------------------------------------------- |
-| `$ git remote add origin https://github.com/theusername/with_the_new_repository.git` 										 	   			   |
-| `$ git clone git@github.com:theusername/my-app.git` 					 |
-| `$ git push -u origin master` 											 |
-| `git pull` 																 |	
+| git - pull and push to a repository |
+| --- |
+| `$ git remote add origin https://github.com/theusername/with_the_new_repository.git` |
+| `$ git clone git@github.com:theusername/my-app.git` |
+| `$ git push -u origin master` 					  |
+| `git pull` 										  |	
 
 
-| git - branch															 |
-| ---------------------------------------------------------------------- |
-| ... 																	 |
+| git - branch |
+| --- |
+| ... |
 
 
 <br>
@@ -54,7 +54,7 @@
 
 
 | commands      | description   				    			|
-| ------------- | ---------------------------------------------	|
+| --- | --- |
 | ls		    | list the folder's content 	    		    |
 | ls -a         | list all content including the hidden files	|
 | ls -r 		| list in reverse order 						|
@@ -77,9 +77,9 @@
 <br>
 
 | rubrik        | rubrik          				    			|
-| ------------- | ---------------------------------------------	|
+| --- | ---	|
 | ...		    | ... 							    		    |
-| ...          | ...											|
+| ...           | ...											|
 
 
 <br>
