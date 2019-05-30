@@ -14,7 +14,7 @@
 
 
 | git - start a repository |
-| --- |
+| ------------------------------------------------------------------ |
 | `$ git init` 																  |
 | `$ git status` &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; |
 
