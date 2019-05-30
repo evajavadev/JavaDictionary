@@ -8,10 +8,9 @@
 
 | git - configuration |
 | --- |
-| `$ git config --global user.name "a username"`				|
-| `$ git config --global user.email theuser@mail.com` &nbsp; &nbsp; &nbsp;
-&nbsp; &nbsp; &nbsp; |
-| `$ git config --list`   										|
+| `$ git config --global user.name "a username"`						   |
+| `$ git config --global user.email theuser@mail.com` &nbsp; &nbsp; &nbsp; |
+| `$ git config --list`   												   |
 
 
 | git - start a repository  									|
