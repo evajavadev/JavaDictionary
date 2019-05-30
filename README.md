@@ -13,10 +13,10 @@
 | `$ git config --list`   												   |
 
 
-| git - start a repository |
-| ------------------------------------------------------------------ |
-| `$ git init` 																  |
-| `$ git status` &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; |
+| git - start a repository &nbsp; &nbsp; |
+| --- |
+| `$ git init` 	 |
+| `$ git status` |
 
 | git - stage files  											|
 | ------------------------------------------------------------- |
