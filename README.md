@@ -72,7 +72,7 @@
 <br>
 <br>
 
-## Basic Wim commands
+## Basic Vim commands
 
 <br>
 
