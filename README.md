@@ -1,10 +1,8 @@
 # A Java Dictionary For a Few Things
-
-<br> <!-- ✅ -->
-
+ 
 > On its way &nbsp; ✔️   
 
-<br>
+<br> <!-- ✅ -->
 
 ## Basic bash commands
 
@@ -16,12 +14,14 @@
 | `$ git config --global user.email theuser@mail.com` &nbsp; &nbsp; &nbsp; |
 | `$ git config --list`   												   |
 
+<br>
 
 | start a repository |
 | --- |
 | `$ git init` 	 |
 | `$ git status` |
 
+<br>
 
 | stage files |
 | --- |
