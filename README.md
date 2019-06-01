@@ -1,6 +1,8 @@
 # A Java Dictionary For a Few Things
- 
-✔️ &nbsp; On its way  <!--  ✅ -->
+
+<br> <!-- ✅ -->
+
+> On its way &nbsp; ✔️   
 
 <br>
 
