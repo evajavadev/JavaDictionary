@@ -32,6 +32,7 @@
 | `$ git rm --cached my_file_from_staging_area.java` 			|
 | `$ git reset a-file.java` 									|
 
+<br>
 
 | commit to a repository |
 | --- |
@@ -39,6 +40,7 @@
 | `$ git commit -a -m "update"` |
 | `$ git reset --soft HEAD^` |
 
+<br>
 
 | pull and push to a repository |
 | --- |
@@ -47,6 +49,7 @@
 | `$ git push -u origin master` 					  |
 | `git pull` 										  |	
 
+<br>
 
 | branch |
 | --- |
