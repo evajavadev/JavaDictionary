@@ -98,11 +98,11 @@
 
 <br>
 
-| commands      | description      				    			|
-| ------------- | ---------------------------------------------	|
-| ^G (Ctrl + g) | nano help						    		    |
-| ^X (Ctrl + x) | exit nano (with prompt on save)				|
-| ...           | ...											|
+| commands      	   | description      				 |
+| ---| --- |
+| ^G &nbsp; (Ctrl + g) | nano help						 |
+| ^X &nbsp; (Ctrl + x) | exit nano (with prompt on save) |
+| ...           	   | ...			  				 |
 
 <br>
 <br>
