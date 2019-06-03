@@ -100,8 +100,8 @@
 
 | commands      	   | description      				 |
 | ---| --- |
-| ^G &nbsp; (Ctrl + g) | nano help						 |
-| ^X &nbsp; (Ctrl + x) | exit nano (with prompt on save) |
+| ^G &nbsp; (ctrl + g) | nano help						 |
+| ^X &nbsp; (ctrl + x) | exit nano (with prompt on save) |
 | ...           	   | ...			  				 |
 
 <br>
