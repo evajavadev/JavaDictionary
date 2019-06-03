@@ -79,6 +79,7 @@
 <br>
 <br>
 
+
 ## Basic Vim commands
 
 <br>
@@ -88,24 +89,10 @@
 | ...		    | ... 							    		    |
 | ...           | ...											|
 
-
 <br>
 <br>
 <br>
 
-## Basic Linux commands
-
-<br>
-
-| rubrik        | rubrik          				    			|
-| ------------- | ---------------------------------------------	|
-| ...		    | ... 							    		    |
-| ...           | ...											|
-
-
-<br>
-<br>
-<br>
 
 ## Basic Nano commands
 
@@ -117,10 +104,24 @@
 | ^X            | exit nano (with prompt on save)				|
 | ...           | ...											|
 
+<br>
+<br>
+<br>
+
+
+## Basic Linux commands
+
+<br>
+
+| rubrik        | rubrik          				    			|
+| ------------- | ---------------------------------------------	|
+| ...		    | ... 							    		    |
+| ...           | ...											|
 
 <br>
 <br>
 <br>
+
 
 ## Github formatting
 
