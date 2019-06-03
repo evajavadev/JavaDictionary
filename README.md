@@ -84,10 +84,12 @@
 
 <br>
 
-| rubrik        | rubrik          				    			|
-| --- | ---	|
-| ...		    | ... 							    		    |
-| ...           | ...											|
+| commands      | description      				 |
+| ---| --- |
+| :help			| vim help						 |
+| :close		| close current pane			 |
+| :q           	| quit			  				 |
+| ...			| ...
 
 <br>
 <br>
