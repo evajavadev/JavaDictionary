@@ -107,6 +107,21 @@
 <br>
 <br>
 
+## Basic Nano commands
+
+<br>
+
+| commands      | description      				    			|
+| ------------- | ---------------------------------------------	|
+| ^G		    | nano help						    		    |
+| ^X            | exit nano (with prompt on save)				|
+| ...           | ...											|
+
+
+<br>
+<br>
+<br>
+
 ## Github formatting
 
 <br>
