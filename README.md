@@ -4,7 +4,7 @@
 
 <br> <!-- ✅ -->
 
-## Basic bash commands
+## Basic git commands
 
 <br> 
 
@@ -53,28 +53,11 @@
 
 | branch |
 | --- |
-| ... |
-
-
-<br>
-<br>
-
-
-| commands      | description   				    			|
-| --- | --- |
-| ls		    | list the folder's content 	    		    |
-| ls -a         | list all content including the hidden files	|
-| ls -r 		| list in reverse order 						|
-| ls -1 		| list one file per line						|
-| mkdir			| make directory 								|
-| rm 			| remove a file 								|
-| rmdir 		| remove a directory (when it's empty)			|
-| rmdir -f 		| force remove 									|
-| pwd 			| print working directory 						|
-| cd *dir* 		| change to *dir* 								|
-| clear 		| clear screen 									|
-| ...		    | ...											|
-
+| `$ git ...` |
+| `$ git ...` |
+| `$ git ...` |
+| `$ git ...` |
+ 
 <br>
 <br>
 <br>
@@ -115,10 +98,20 @@
 
 <br>
 
-| rubrik        | rubrik          				    			|
-| ------------- | ---------------------------------------------	|
-| ...		    | ... 							    		    |
-| ...           | ...											|
+| commands      | description   				    			|
+| --- | --- |
+| ls		    | list the folder's content 	    		    |
+| ls -a         | list all content including the hidden files	|
+| ls -r 		| list in reverse order 						|
+| ls -1 		| list one file per line						|
+| mkdir			| make directory 								|
+| rm 			| remove a file 								|
+| rmdir 		| remove a directory (when it's empty)			|
+| rmdir -f 		| force remove 									|
+| pwd 			| print working directory 						|
+| cd *dir* 		| change to *dir* 								|
+| clear 		| clear screen 									|
+| ...		    | ...											|
 
 <br>
 <br>
