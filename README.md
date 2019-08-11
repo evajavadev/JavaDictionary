@@ -1,12 +1,22 @@
+<br>
+
 # A Java Dictionary For a Few Things
  
 > Ongoing &nbsp; ✔️   
 
 <br> <!-- ✅ -->
 
-## Basic git commands
+## Git & GitHub
 
-<br> 
+<br>
+
+soon text and proper sorting...
+
+<br>
+
+### Basic git commands 
+
+<br>
 
 | configuration |
 | --- |
@@ -62,8 +72,11 @@
 <br>
 <br>
 
+## Linux
 
-## Basic Vim commands
+<br>
+
+### Basic Vim commands
 
 <br>
 
