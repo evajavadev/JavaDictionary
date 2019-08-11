@@ -77,7 +77,9 @@ soon text and proper sorting...
 <br>
 <br> 
 
-### Basic Vim commands
+### Basic Vim (vi) commands
+
+text... 
 
 <br>
 
@@ -86,6 +88,9 @@ soon text and proper sorting...
 | :help			| vim help						 |
 | :close		| close current pane			 |
 | :q           	| quit			  				 |
+| i           	| insert		  				 |
+| esc         	| done			  				 |
+| :wq           | write quit	  				 |
 | ...			| ...
 
 <br>
