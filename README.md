@@ -2,9 +2,14 @@
 
 # A Java Dictionary For a Few Things
  
-> Ongoing &nbsp; ✔️   
+> Ongoing &nbsp; ✔️  <!-- ✅ --> 
 
-<br> <!-- ✅ -->
+<br>
+
+text...
+
+<br> 
+<br>
 
 ## Git & GitHub
 
@@ -70,11 +75,7 @@ soon text and proper sorting...
  
 <br>
 <br>
-<br>
-
-## Linux
-
-<br>
+<br> 
 
 ### Basic Vim commands
 
@@ -92,7 +93,7 @@ soon text and proper sorting...
 <br>
 
 
-## Basic Nano commands
+### Basic Nano commands
 
 <br>
 
@@ -107,7 +108,7 @@ soon text and proper sorting...
 <br>
 
 
-## Basic Linux commands
+### Basic Linux commands
 
 <br>
 
