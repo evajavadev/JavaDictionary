@@ -72,6 +72,7 @@ soon text and proper sorting...
 | `$ git ...` |
 | `$ git ...` |
 | `$ git ...` |
+| after `$ git log` hit `q` to come back to prompt |
  
 <br>
 <br>
