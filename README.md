@@ -10,6 +10,9 @@ text...
 
 <br> 
 <br>
+<br>
+
+
 
 ## Git & GitHub
 
@@ -115,6 +118,9 @@ text...
 <br>
 <br>
 <br>
+<br>
+
+
 
 ## Linux 
 
@@ -143,6 +149,10 @@ text...
 <br>
 <br>
 <br>
+<br>
+<br>
+<br>
+
 
 
 ## Github formatting
