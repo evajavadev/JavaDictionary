@@ -3,8 +3,7 @@
 # A Java Dictionary For a Few Things
  
 > Ongoing &nbsp; ✔️  <!-- ✅ --> 
-
-<br>
+  
 
 text...
 
