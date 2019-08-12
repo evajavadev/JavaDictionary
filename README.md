@@ -18,7 +18,7 @@ text...
 
 <br>
 
-soon text and proper sorting...
+text and proper sorting...
 
 <br>
 
@@ -125,7 +125,10 @@ text...
 ## Linux 
 
 <br>
-<br>
+
+text and proper sorting...
+
+<br> 
 
 ### Basic Linux commands
 
