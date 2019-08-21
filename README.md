@@ -76,6 +76,7 @@ text and proper sorting...
 | `$ git ...` |
 | after `$ git log` hit `q` to come back to prompt |
 | `$ git branch -a` |
+| `$ git ...` |
  
 <br>
 <br>
